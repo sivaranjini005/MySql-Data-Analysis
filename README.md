@@ -30,5 +30,15 @@ The call_timestamp column is in string format so we use str_to_date() function b
 ![update Table](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/UPDATE%20.png?raw=true)
 
 Now lets see how many rows and columns we have
+![Rows & columns](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%20_ROWS.png?raw=true)
+
+![No.of.rows](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/rows.png?raw=true)               ![No.of.columns](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/columns.png?raw=true)
 
 
+We can see that we have 32941 rows and 12 columns.
+
+Now lets look into the percentage and count of distinct values .
+![Percent](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%20_PERCENT.png?raw=true)
+
+
+We are going to see which day has most calls and which day has least call
