@@ -42,4 +42,7 @@ Now lets look into the percentage and count of distinct values .
 
 
 We are going to see which day has most calls and which day has least call
-![Calls by Day](
+![Calls by Day](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%20_calldays.png?raw=true)
+
+let's look into some aggregated values
+![Aggregate query](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%20_aggregate.png?raw=true)
