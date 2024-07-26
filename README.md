@@ -40,12 +40,11 @@ We can see that we have 32941 rows and 12 columns.
 Now lets look into the percentage and count of distinct values .
 ![Percent](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%20_PERCENT.png?raw=true)
 
-This is how our aggregate function result looks
-
-
 We are going to see which day has most calls and which day has least call
 ![Calls by Day](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%20_calldays.png?raw=true)
 
 let's look into some aggregated values
 ![Aggregate query](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%20_aggregate.png?raw=true)
 ![Aggregate result](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot_last.png?raw=true)
+
+This is how our aggregate function result looks, here we are checking how many calls are within / below or above Service Level Agreement (SLA).For example we see that Chicago/IL call center has around 3359 calls Within SLA , and then Denver/CO has 692 calls below SLA
