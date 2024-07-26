@@ -46,3 +46,4 @@ We are going to see which day has most calls and which day has least call
 
 let's look into some aggregated values
 ![Aggregate query](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%20_aggregate.png?raw=true)
+![Aggregate result](
