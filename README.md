@@ -23,4 +23,12 @@ Now lets look into our table calls
 
 ![calls table](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/Screenshot%202.png?raw=true)
 
+Let's clean our data
+
+The call_timestamp column is in string format so we use str_to_date() function by giving the format of the string to convert it into date format like 'YYYY-MM-DD' but before updating the column we need to set safe_sql_updates to 0 to make sql allow updates and also we are ensuring null values in csat_score column
+
+![update Table](https://github.com/sivaranjini005/MySql-Data-Analysis/blob/main/UPDATE%20.png?raw=true)
+
+Now lets see how many rows and columns we have
+
 
